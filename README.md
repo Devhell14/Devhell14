@@ -7,7 +7,7 @@ Software Developer
 3 year experience writing software. Deveops desktop application web app with Fullstack I’m interested in creating websites for business
 
 * 🌍  I'm based in Huahin, Thailand
-* ✉️  You can contact me at [Paelalit@gmail.com](mailto:Paelalit@gmail.com)
+* ✉️  You can contact me at [Paelalit@gmail.com](mailto:paelalit@gmail.com)
 
 ### Skills
 

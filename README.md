@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Software Developer
 ------------------
 
-6 year experience writing software. Deveops desktop application web app with Fullstack I’m interested in creating websites for business
+3 year experience writing software. Deveops desktop application web app with Fullstack I’m interested in creating websites for business
 
 * 🌍  I'm based in Huahin, Thailand
 * ✉️  You can contact me at [Paelalit@gmail.com](mailto:Paelalit@gmail.com)
